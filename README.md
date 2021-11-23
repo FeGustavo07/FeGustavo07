@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando desenvolvimento Web full-stack
+- Estudando desenvolvimento Web full-stack
  
 <div align = "center">
   <a href="https://github.com/FeGustavo07">
