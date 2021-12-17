@@ -3,6 +3,7 @@
 
 
 - Estudando desenvolvimento Web full-stack
+- Aluno - Santander Coders e Recode Pro
  
 <div align = "center">
   <a href="https://github.com/FeGustavo07">
