@@ -5,6 +5,7 @@
 - Estudando desenvolvimento Web full-stack
 - Aluno - Santander Coders e Recode Pro
 - Javascript / Java / C# 
+- Meu Linkedin - https://www.linkedin.com/in/fernando-g-silva-4a2a05154/
  
 <div align = "center">
   <a href="https://github.com/FeGustavo07">
