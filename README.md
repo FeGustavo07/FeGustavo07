@@ -26,6 +26,5 @@
 <br/>
  
 <div> 
-  <a href="https://www.instagram.com/fernando_gustavo07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/fernando-g-silva-4a2a05154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>   
