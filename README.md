@@ -6,7 +6,7 @@
 - Aluno - Santander Coders e Recode Pro
 - Linguagens - Javascript / Java / C# 
 - Frameworks e Libs - Angular / React / Bootstrap
-- Meu Linkedin - https://www.linkedin.com/in/fernando-g-silva-4a2a05154/
+- Meu Linkedin - www.linkedin.com/in/fernando-g-silva
  
 <div align = "center">
   <a href="https://github.com/FeGustavo07">
