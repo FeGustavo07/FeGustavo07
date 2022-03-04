@@ -3,7 +3,7 @@
 
 
 - Estudando desenvolvimento Web full-stack
-- Aluno - Santander Coders e Recode Pro
+- Turmas - Santander Coders e Recode Pro
 - Linguagens - Javascript / Java / C# 
 - Frameworks e Libs - Angular / React / Spring / Bootstrap
 - Meu Linkedin - www.linkedin.com/in/fernando-g-silva
