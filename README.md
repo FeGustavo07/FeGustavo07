@@ -1,12 +1,14 @@
 ### Olá! Eu sou o Fernando G Silva
 
+<div align = "center">
+ <img height="180em" src="https://pbs.twimg.com/media/FPiMdW7WYAAAMf9?format=jpg&name=medium"/>
+<div>
 
-
-- Estudando desenvolvimento Web full-stack
+<!-- - Estudando desenvolvimento Web full-stack
 - Turmas - Santander Coders e Recode Pro
 - Linguagens - Javascript / Java / C# 
 - Frameworks e Libs - Angular / React / Spring / Bootstrap
-- Meu Linkedin - www.linkedin.com/in/fernando-g-silva
+- Meu Linkedin - www.linkedin.com/in/fernando-g-silva -->
  
 <div align = "center">
   <a href="https://github.com/FeGustavo07">
