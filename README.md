@@ -8,7 +8,7 @@
 - Meu Linkedin - www.linkedin.com/in/fernando-g-silva -->
 <div align="right">
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/fernando-g-silva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-g-silva/)
  
 </div>
  
