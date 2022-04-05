@@ -11,8 +11,8 @@
  
   <a href="https://github.com/FeGustavo07">
    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeGustavo07&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FeGustavo07&theme=merko" alt="" /></p>
+  <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeGustavo07&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FeGustavo07&theme=merko" alt="" /></p>
+   
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeGustavo07&layout=compact&langs_count=7&theme=merko"/>
     
 </div>
