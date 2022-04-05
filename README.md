@@ -12,11 +12,11 @@
  </div>
  
  
-<div align = "center">
+<div >
  
   <a href="https://github.com/FeGustavo07">
-   <img height="180em" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeGustavo07&layout=compact&langs_count=7&theme=merko"/>
-   <img  width="70%" src="https://github.com/FeGustavo07/FeGustavo07/blob/main/GIT_C.png"/>
+   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeGustavo07&layout=compact&langs_count=7&theme=merko"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img  width="20%" src="https://github.com/FeGustavo07/FeGustavo07/blob/main/astronauta.png"/>
    <p><img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FeGustavo07&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img  height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=FeGustavo07&theme=merko" alt="" /></p>
    
 
