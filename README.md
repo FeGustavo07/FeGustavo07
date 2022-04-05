@@ -1,20 +1,22 @@
 ### Olá! Eu sou o Fernando G Silva
 
 
-- Estudando desenvolvimento Web full-stack
+<!-- - Estudando desenvolvimento Web full-stack
 - Turmas - Santander Coders e Recode Pro
 - Linguagens - Javascript / Java / C# 
 - Frameworks e Libs - Angular / React / Spring / Bootstrap
-- Meu Linkedin - www.linkedin.com/in/fernando-g-silva
- 
-   
+- Meu Linkedin - www.linkedin.com/in/fernando-g-silva -->
+
+<div  >
+ <img  src="https://github.com/FeGustavo07/FeGustavo07/blob/main/GIT_C.png"/>
+ </div>
  
  
 <div align = "center">
  
   <a href="https://github.com/FeGustavo07">
-    <img  width="49%" src="https://github.com/FeGustavo07/FeGustavo07/blob/main/GIT_C.png"/>
-   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeGustavo07&layout=compact&langs_count=7&theme=merko"/>
+   <img height="180em" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeGustavo07&layout=compact&langs_count=7&theme=merko"/>
+   <img  width="70%" src="https://github.com/FeGustavo07/FeGustavo07/blob/main/GIT_C.png"/>
    <p><img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FeGustavo07&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img  height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=FeGustavo07&theme=merko" alt="" /></p>
    
 
