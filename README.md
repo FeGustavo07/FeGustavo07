@@ -1,4 +1,4 @@
-### Olá! Eu sou o Fernando G Silva
+<!-- ### Olá! Eu sou o Fernando G Silva -->
 
 
 <!-- - Estudando desenvolvimento Web full-stack
@@ -19,9 +19,6 @@
    
  
  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeGustavo07&layout=compact&langs_count=7&theme=merko"/> 
-   
-
-   <img  height="180em" src="https://github.com/FeGustavo07/FeGustavo07/blob/main/astronauta.png"/>
   
    
    
