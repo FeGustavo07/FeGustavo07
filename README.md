@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Fernando G Silva
 
 
-<!-- - Estudando desenvolvimento Web full-stack
+- Estudando desenvolvimento Web full-stack
 - Turmas - Santander Coders e Recode Pro
 - Linguagens - Javascript / Java / C# 
 - Frameworks e Libs - Angular / React / Spring / Bootstrap
-- Meu Linkedin - www.linkedin.com/in/fernando-g-silva -->
+- Meu Linkedin - www.linkedin.com/in/fernando-g-silva
  
 <div align = "center">
  
