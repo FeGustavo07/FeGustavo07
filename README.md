@@ -6,7 +6,12 @@
 - Linguagens - Javascript / Java / C# 
 - Frameworks e Libs - Angular / React / Spring / Bootstrap
 - Meu Linkedin - www.linkedin.com/in/fernando-g-silva -->
-
+<div align="right">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/fernando-g-silva)
+ 
+</div>
+ 
 <div  >
  <img  src="https://github.com/FeGustavo07/FeGustavo07/blob/main/GIT_C.png"/>
  </div>
