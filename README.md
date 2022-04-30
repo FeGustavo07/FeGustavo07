@@ -45,4 +45,4 @@
  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
-
+ ![Profile views](https://gpvc.arturio.dev/FeGustavo07)
