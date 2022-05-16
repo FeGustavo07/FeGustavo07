@@ -12,9 +12,9 @@
  
 </div>
  
-<div  >
+<!-- <div  >
  <img  src="https://github.com/FeGustavo07/FeGustavo07/blob/main/bioGit.png"/>
- </div>
+ </div> -->
  
  
 <div align="center">
